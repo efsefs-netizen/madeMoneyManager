@@ -1,0 +1,9 @@
+/* Write your CSS here */
+li {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.moneyManagerSection {
+  display: flex;
+}

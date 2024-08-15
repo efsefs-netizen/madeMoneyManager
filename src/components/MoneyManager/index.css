@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.moneyManagerSection {
+  display: flex;
+  list-style-type: none;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.bottom {
+  display: flex;
+}
+.history-titles{
+  display: flex;
+}
